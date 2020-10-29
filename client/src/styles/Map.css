@@ -1,0 +1,14 @@
+.section {
+  padding: 20px;
+}
+
+.section p {
+  font-size: large;
+}
+
+#map1 {
+  color: #B11226;
+  font-family: "URW Chancery L", cursive;
+    font-size: 50px;
+    text-align: center;
+}
